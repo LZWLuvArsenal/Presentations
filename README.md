@@ -11,6 +11,8 @@ Mod 4 - Linear Regression using University Admissions
 
 Mod 5 - Logistic Regression on NBA 3PT 
 
+Mod 8 - Credit Risk Prediction
+
 Mod 9 - Sentiment Analysis using NLTK
 
 Mod 9.2 Sentiment Analysis using Spacy
