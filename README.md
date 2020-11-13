@@ -16,3 +16,5 @@ Mod 8 - Credit Risk Prediction
 Mod 9 - Sentiment Analysis using NLTK
 
 Mod 9.2 Sentiment Analysis using Spacy
+
+Capstone Project - Using NLP to Determine Real or Fake Disaster Tweets
