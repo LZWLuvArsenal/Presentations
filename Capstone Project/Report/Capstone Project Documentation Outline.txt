@@ -1,0 +1,160 @@
+Abstract
+- Quick summary of problem, cause and effect
+- Brief methodology
+- Summarise results
+- All is good!
+
+Acknowledgement
+- Thank your family, friends, course mates, trainers, IOD staffs
+
+Content Page
+ 
+1. Intro
+- More data
+- More news readily online since people spend more time online(includes social media) so it has become a platform for news
+- Fake news arise as well
+- Brief effects of fake news
+- Define objective and scope of what I wanna do
+
+1.1 Can show stats of usage(%) on how much time spent online/social media
+- to back the statement above
+
+2. Literature Review
+
+2.1 Fake News
+2.1.1 Definition, Purpose
+- What is fake news
+- What is it used for
+- How is it being spread
+- Why is fake news created
+
+2.1.2 Types of Fake News
+- the 7 types of fake news
+
+2.1.3 Implications of fake news
+- reduce impact of real news by competing with it
+- financial impact
+- health impact
+- fear
+- racist ideas
+- bully and violence
+- democratic impact
+
+2.1.4 How to identify fake news/reviews
+- the 8 factors
+
+2.1.5 Fake News migitation method
+- How the big companies e.g Google are tackling it
+- How SG tackles it
+
+2.2 Feature Engineering
+
+2.2.1 Pre-Processing
+2.2.1.1 Regular Expression
+
+2.2.2 Vectorisation
+2.2.2.1 CountVectorizer
+2.2.2.2 TF-IDF Vectorizer
+
+Explain how each vectorizer works, why use them.
+
+2.3 Text Classification
+
+2.3.1 Naives Bayes
+
+2.3.2 Linear Classifier
+
+2.3.3 Support Vector Classifier
+
+2.3.4 Bagging
+
+2.3.5 Boosting
+
+2.3.6 Deep Learning
+2.3.6.1 How DL works
+2.3.6.2 Keras
+
+For each classifier, explain what is it, how it works, benefits of using them.
+
+3. Methodology 
+3.1 The Setup
+- Explain the idea came from Kaggle
+- Data come from there
+- Import what libraries and for what purpose
+
+3.2 Experiemental Design
+
+3.2.1 EDA
+- Show missing datas
+- How many 1s and 0s for Target
+
+3.2.2 Basic Feature Extraction
+3.2.2.1 Number of Words
+3.2.2.2 Number of Characters
+3.2.2.3 Average Word Length
+3.2.2.4 Number of Stopwords
+3.2.2.5 Special Characters
+3.2.2.6 Punctuations
+3.2.2.7 Number of Numerics
+3.2.2.8 Number of Uppercase Words
+
+3.2.3 Cleaning Text
+3.2.3.1 Removing http
+3.2.3.2 Remove Mentions
+3.2.3.3 Remove RT
+3.2.3.4 Remove special symbols and extra whitespace
+3.2.3.5 Remove numbers
+3.2.3.6 Expand contractions
+3.2.3.7 Lowercase Words
+3.2.3.8 Remove Stopwords
+3.2.3.9 Remove punctuations
+3.2.3.10 Common Word removal
+3.2.3.11 Rare Word removal
+3.2.3.12 Spelling Correction
+3.2.3.13 Lemmatisation and Tokenisation
+
+3.2.4 WordCloud
+
+3.2.5 Apply Feature Engineering
+
+3.2.5.1 Machine Learning
+3.2.5.1.1 CountVectoriser
+3.2.5.1.2 TF IDF 
+3.2.5.1.2.1 Word Level
+3.2.5.1.2.2 N-Gram
+
+3.2.5.2 Deep Learning
+
+3.2.6 Apply Text Classification
+3.2.6.1 Naive Bayes
+3.2.6.2 Linear
+3.2.6.3 SVC
+3.2.6.4 Random Forest
+3.2.6.5 Gradient Descent
+3.2.6.6 Baseline Model
+3.2.6.7 Reduced Model
+3.2.6.8 Regularised Model
+3.2.6.9 Dropout Model
+
+4 Results and Discussions
+4.1 Naive Bayes
+4.2 Linear Classifier
+4.3 SVC
+4.4 Bagging
+4.5 Boosting
+4.6 Keras
+Comment on trend, recall, precision, roc_auc scores
+
+5. Conclusions
+- Quick summary of methodology
+- Recap the scope and objective of project
+- Summary of results
+- Say which model is the best at classifying
+- Link back to our topic. Implications solved abit?
+
+- Give limitation of project, hence we can consider this as a possible topic for future work
+- Can suggest try other deep learning models since DL have the best results
+- Can suggest clean more text?
+
+6. References
+- IEEE format
