@@ -5,7 +5,7 @@ Mod 1 - Intro to Data Science
 
 Mod 2 - Data Collection using API
 
-Mod 3 - Visualisation using Tableau
+Mod 3 - Visualisation using Tableau(https://public.tableau.com/profile/lim.zheng.wei#!/vizhome/Mod3PresentationAfrica/AnalysisofAfricaMarket)
 
 Mod 4 - Linear Regression using University Admissions
 
